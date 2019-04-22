@@ -1,0 +1,11 @@
+/Users/littlelight/Projects/TestAds/TestAds/bin/Debug/netstandard2.0/TestAds.deps.json
+/Users/littlelight/Projects/TestAds/TestAds/bin/Debug/netstandard2.0/TestAds.dll
+/Users/littlelight/Projects/TestAds/TestAds/bin/Debug/netstandard2.0/TestAds.pdb
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/TestAds.csproj.CoreCompileInputs.cache
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/TestAds.AssemblyInfoInputs.cache
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/TestAds.AssemblyInfo.cs
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/TestAds.dll
+/Users/littlelight/Projects/TestAds/TestAds/obj/Debug/netstandard2.0/TestAds.pdb

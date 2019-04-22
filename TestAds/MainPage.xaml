@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:controls="clr-namespace:TestAds.Controls" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:TestAds" 
+             x:Class="TestAds.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+          <controls:AdBanner x:Name="AdBanner" Grid.Row="2" Grid.ColumnSpan="5" Size="Standardbanner" BackgroundColor="Green" VerticalOptions="End">
+             <controls:AdBanner.HeightRequest>
+                <OnPlatform x:TypeArguments="x:Double">
+                      <On Platform="iOS,Android,Windows">60</On>
+                </OnPlatform>
+            </controls:AdBanner.HeightRequest>
+        </controls:AdBanner>  
+    </StackLayout>
+</ContentPage>
