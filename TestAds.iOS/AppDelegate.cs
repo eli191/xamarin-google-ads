@@ -22,6 +22,8 @@ namespace TestAds.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            Google.MobileAds.MobileAds.Configure("YOUR APP ID HERE");
+
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
